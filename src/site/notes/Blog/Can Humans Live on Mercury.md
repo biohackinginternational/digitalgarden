@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/livingonmercury--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/can-humans-live-on-mercury/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/livingonmercury--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/can-humans-live-on-mercury/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
