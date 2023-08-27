@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/size/w2000/2023/02/canhumansliveoneuropaheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/can-humans-live-on-europa/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/size/w2000/2023/02/canhumansliveoneuropaheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/can-humans-live-on-europa/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
