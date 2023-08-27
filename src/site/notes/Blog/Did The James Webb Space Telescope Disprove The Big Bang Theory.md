@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/jwstdisprovebigbangtheoryheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/did-the-james-webb-space-telescope-disprove-the-big-bang-theory/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/jwstdisprovebigbangtheoryheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/did-the-james-webb-space-telescope-disprove-the-big-bang-theory/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
