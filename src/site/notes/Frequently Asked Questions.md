@@ -3,6 +3,8 @@
 ---
 
 
+![[Header \| no-title]]
+
 There are a lot of questions I repeatedly get about how to use certain features within Universe, technical errors, and more. I've decided to answer a few of them all in one place.
 
 There are a lot of questions I repeatedly get about how to use certain features within Universe, technical errors, and more. I've decided to answer a few of them all in one place.
