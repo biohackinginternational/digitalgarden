@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/01/whythemoonlandingwasreal.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/the-moon-landing-was-real/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/01/whythemoonlandingwasreal.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/the-moon-landing-was-real/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
