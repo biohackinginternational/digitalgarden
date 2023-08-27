@@ -8,6 +8,5 @@
 -----
 ``` dataview
 TABLE  
-	  "![anyName|350](" + banner + ")" AS "Cover"
 FROM "Blog"
 ```
