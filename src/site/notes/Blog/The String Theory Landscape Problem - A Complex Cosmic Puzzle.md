@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/the-string-theory-landscape-problem-a-complex-cosmic-puzzle/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
-
+![Pasted image 20230826202621.png](/img/user/Pasted%20image%2020230826202621.png)
 -----
 
 [[Home\|Home]] ✦ [[Astronomy Quiz of The Day\|Astronomy Quiz of The Day]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]]
