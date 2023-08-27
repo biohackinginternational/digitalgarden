@@ -3,7 +3,16 @@
 ---
 
 
-![[Header \| no-title]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
+
+
+</div></div>
+
 
 There are a lot of questions I repeatedly get about how to use certain features within Universe, technical errors, and more. I've decided to answer a few of them all in one place.
 
