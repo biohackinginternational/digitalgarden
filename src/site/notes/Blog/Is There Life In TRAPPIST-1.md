@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/01/lifeontrappist1-2--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-in-trappist-1/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/01/lifeontrappist1-2--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-in-trappist-1/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
