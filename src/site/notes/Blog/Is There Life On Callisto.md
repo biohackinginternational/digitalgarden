@@ -2,6 +2,9 @@
 {"banner":"https://joshuahabka.com/content/images/2023/02/Untitled-2--2--1--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-callisto/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
+
 ```ad-info
 title: Blog Information
 ```
