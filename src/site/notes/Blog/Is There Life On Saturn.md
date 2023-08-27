@@ -2,6 +2,18 @@
 {"banner":"https://joshuahabka.com/content/images/2023/02/lifeonsaturn-2--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-saturn/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
+
+
+</div></div>
+
+
 ```ad-info
 title: Blog Information
 ```
