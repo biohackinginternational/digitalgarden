@@ -2,11 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
------
-
-[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
-
------
+![[Header \| no-title]]
 # Hey, I'm Josh!
 
 Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.
