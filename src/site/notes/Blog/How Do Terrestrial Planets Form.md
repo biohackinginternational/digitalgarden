@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/terrestrialplanetformation--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/how-do-terrestrial-planets-form/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/terrestrialplanetformation--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/how-do-terrestrial-planets-form/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
