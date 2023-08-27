@@ -63,5 +63,3 @@ title: Policies
 [Returns and Refunds](https://beta.joshuahabka.com/returns-and-refunds/)
 
 ```
-
-----
