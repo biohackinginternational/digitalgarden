@@ -18,20 +18,8 @@
 
 ----
 > [!abstract] Astronomy Blog
-> **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! The lastest **5** posts are displayed below, you may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
+> **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! You may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
 > 
-
-| File                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [[Blog/Becoming a Cyborg - Getting Your First Microchip Implant\|Becoming a Cyborg - Getting Your First Microchip Implant]] |
-| [[Blog/Can Humans Live on Europa\|Can Humans Live on Europa]]                                                               |
-| [[Blog/Can Humans Live on Mercury\|Can Humans Live on Mercury]]                                                             |
-| [[Blog/Can We Survive Without the Sun\|Can We Survive Without the Sun]]                                                     |
-| [[Blog/Can We Terraform Europa\|Can We Terraform Europa]]                                                                   |
-
-{ .block-language-dataview}
-
------
 
 ```ad-abstract
 title: Weekly Newsletter
