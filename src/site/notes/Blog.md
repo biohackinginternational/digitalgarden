@@ -8,9 +8,9 @@
 
 -----
 
-[[Blog/The Universe's Ghostly Messengers - A Beginner's Guide to Neutrinos\|The Universe's Ghostly Messengers - A Beginner's Guide to Neutrinos]]
+````
+query
+`tag:#sometag`
 
-[[Blog/The String Theory Landscape Problem - A Complex Cosmic Puzzle\|The String Theory Landscape Problem - A Complex Cosmic Puzzle]]
-
-[[Blog/Becoming a Cyborg - Getting Your First Microchip Implant\|Becoming a Cyborg - Getting Your First Microchip Implant]]
+````
 
