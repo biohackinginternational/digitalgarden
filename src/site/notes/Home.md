@@ -14,7 +14,7 @@
 
 # Hey, I'm Josh!
 
-Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.
+> **Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.**
 
 ----
 > [!abstract] Astronomy Blog
@@ -30,6 +30,7 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 | [[Blog/Can We Terraform Europa\|Can We Terraform Europa]]                                                                   |
 
 { .block-language-dataview}
+
 -----
 
 ```ad-abstract
