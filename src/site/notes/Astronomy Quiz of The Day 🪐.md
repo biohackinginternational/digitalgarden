@@ -3,7 +3,16 @@
 ---
 
 
-![[Header \| no-title]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
+
+
+</div></div>
+
 
 > [!info] Astronomy Quiz of The Day
 > The Daily Space Quiz(Astronomy Quiz of The Day) is a quiz that will test your knowledge of planets, stars, exoplanets, galaxies, laws of the universe, and more. Questions are updated daily.
