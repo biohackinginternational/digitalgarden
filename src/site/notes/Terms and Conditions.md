@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/terms-and-conditions/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
+
 We are committed to providing a great experience for all visitors to our website. These terms and conditions have been created to ensure that we are clear in our general business practices, community membership policies, and financial policies.
 
 We are committed to providing a great experience for all visitors to our website. These terms and conditions have been created to ensure that we are clear in our general business practices, community membership policies, and financial policies.
