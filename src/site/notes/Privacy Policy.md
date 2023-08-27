@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/privacy-policy/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
+
 **PRIVACY NOTICE**  
 **Last updated November 09, 2022**  
   
