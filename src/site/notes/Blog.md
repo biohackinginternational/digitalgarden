@@ -7,9 +7,7 @@
 
 -----
 ``` dataview
-LIST  
+LIST "![anyName|200](" + banner + ")"
 FROM "Blog"
 ```
 
-```"![anyName|350](" + banner + ")" AS "Cover"
-```
