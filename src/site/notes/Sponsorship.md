@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sponsorship/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
 # Josh Universe Sponsorship Opportunities
 
 At Josh Universe, we pride ourselves on providing quality content and resources related to space, astronomy, and physics. Our platforms include a daily space quiz, a comprehensive space events calendar, a popular podcast, a lively Discord community, and a dedicated Science.Social page. We invite brands and organizations that align with our values to become sponsors and support our mission.
