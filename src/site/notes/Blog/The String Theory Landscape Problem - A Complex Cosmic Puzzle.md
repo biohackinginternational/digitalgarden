@@ -5,7 +5,7 @@
 ![Pasted image 20230826202621.png](/img/user/Pasted%20image%2020230826202621.png)
 -----
 
-[[Home\|Home]] ✦ [[Astronomy Quiz of The Day\|Astronomy Quiz of The Day]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]]
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]]
 
 -----
 # The Landscape Problem of String Theory
