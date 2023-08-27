@@ -29,7 +29,6 @@ I send out weekly newsletters with a weekly discussion question, a little space 
 
 <div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-button-color="#dbc38f" data-button-text-color="#FFFFFF" data-site="https://joshuahabka.com" data-locale="en" async></script></div>
 
------
 
 > [!success] Astrochain - **Galaxy Sponsor** 🌌
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
