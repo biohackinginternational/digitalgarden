@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/returns-and-refunds/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
+
 We are here to help if you are not entirely satisfied with any purchase that you have made from our website.
 
 ## **📦Returns**
