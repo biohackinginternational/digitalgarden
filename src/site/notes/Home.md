@@ -25,10 +25,8 @@
 > The Daily Space Quiz(Astronomy Quiz of The Day) is a quiz that will test your knowledge of planets, stars, exoplanets, galaxies, laws of the universe, and more. Questions are updated daily.
 > 
 
-```ad-abstract 
-title: Weekly Newsletter
-I send out weekly newsletters with a weekly discussion question, a little space news, and the latest blog posts. Join over **1400 participants!**
-```
+>[!abstract] [Weekly Newsletter](https://beta.joshuahabka.com/newsletter/)
+I> send out weekly newsletters with a weekly discussion question, a little space news, and the latest blog posts. Join over **1400 participants!**
 
 > [!success] [Astrochain - **Galaxy Sponsor** 🌌](https://astrochain.io)
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
