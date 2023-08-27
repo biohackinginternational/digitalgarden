@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/01/lifeonwasp39b-2-2.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-wasp-39b/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/01/lifeonwasp39b-2-2.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-wasp-39b/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
