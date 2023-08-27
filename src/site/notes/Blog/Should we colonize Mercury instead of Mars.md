@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/colonizemercuryovermarsheader-2--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/should-we-colonize-mercury-instead-of-mars/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/colonizemercuryovermarsheader-2--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/should-we-colonize-mercury-instead-of-mars/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
