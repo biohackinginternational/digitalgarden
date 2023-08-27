@@ -8,8 +8,6 @@
 [[Home\|Home]] ✦ [[Astronomy Quiz of The Day\|Astronomy Quiz of The Day]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]]
 
 -----
-
-![Pasted image 20230826202615.png](/img/user/Pasted%20image%2020230826202615.png)
 # The Landscape Problem of String Theory
 
 ![Image Caption: Image related to string theory](https://hetg.physics.harvard.edu/sites/projects.iq.harvard.edu/files/styles/os_files_xlarge/public/hetg/files/swampland.png?m=1534873108&itok=o03v6mCN)
