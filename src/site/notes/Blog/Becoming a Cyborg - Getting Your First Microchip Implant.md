@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/4d10c0cb924c5a86f893fb602c9bb158.jpg","banner_x":0.5,"dg-publish":true,"permalink":"/blog/becoming-a-cyborg-getting-your-first-microchip-implant/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/4d10c0cb924c5a86f893fb602c9bb158.jpg","banner_x":0.50001,"dg-publish":true,"permalink":"/blog/becoming-a-cyborg-getting-your-first-microchip-implant/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
