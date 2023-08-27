@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/doesthemoonhavewaterheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-water-on-the-moon/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/doesthemoonhavewaterheader--1-.webp","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-water-on-the-moon/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
