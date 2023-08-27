@@ -20,11 +20,29 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 > [!success] Astrochain - Galaxy Sponsor 🌌
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
 
------
+## Social Links
+
+> [!example] Social Media Sites
+> https://instagram.com/realjoshuniverse
+> https://youtube.com/@joshhabka
+> https://twitter.com/joshhabka
+> https://www.facebook.com/realjoshhabka
+> https://science.social/@admin
+> https://www.linkedin.com/in/joshhabka
+> https://tiktok.com/@realjoshuniverse
+> https://discord.gg/josh
+> https://www.patreon.com/joshhabka
+> https://t.snapchat.com/yk0fVQux
+> https://www.reddit.com/user/RealJoshUniverse
+> https://www.twitch.tv/joshhabka
+> https://linktr.ee/joshhabka
+> https://www.imdb.com/name/nm13786262/
+> https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1
+>  https://july.bio/joshhabka
+
+----
 
 <iframe style="border:none;width:100%;" height="1200px" src="https://opnform.com/forms/astronomy-quiz-of-the-day"></iframe>
 
 -----
-
-
 
