@@ -15,7 +15,8 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 > [!abstract] Astronomy Blog
 > **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! The lastest **5** posts are displayed below, you may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
 > 
-> | File                                                                                                                           |
+
+| File                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | [[Blog/Becoming a Cyborg - Getting Your First Microchip Implant\|Becoming a Cyborg - Getting Your First Microchip Implant]] |
 | [[Blog/Can Humans Live on Europa\|Can Humans Live on Europa]]                                                               |
@@ -23,14 +24,18 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 | [[Blog/Can We Survive Without the Sun\|Can We Survive Without the Sun]]                                                     |
 | [[Blog/Can We Terraform Europa\|Can We Terraform Europa]]                                                                   |
 
-{ .block-language-dataview}ad-abstract
+{ .block-language-dataview}
+-----
+
+```ad-abstract
 title: Weekly Newsletter
 I send out weekly newsletters with a weekly discussion question, a little space news, and the latest blog posts. Join over **1400 participants!**
+```
+
 
 <div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-button-color="#dbc38f" data-button-text-color="#FFFFFF" data-site="https://joshuahabka.com" data-locale="en" async></script></div>
 
-```
-
+-----
 
 > [!success] Astrochain - **Galaxy Sponsor** 🌌
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
