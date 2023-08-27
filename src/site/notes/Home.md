@@ -14,6 +14,8 @@
 
 # Hey, I'm Josh!
 
+![[websitepicture.png \| 300]]
+
 > **Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.**
 
 ----
