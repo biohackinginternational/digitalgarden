@@ -17,11 +17,11 @@
 > **Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.**
 
 ----
-> [!abstract] Astronomy Blog
+> [!abstract] [Astronomy Blog](https://https://beta.joshuahabka.com/blog/)
 > **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! You may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
 > 
 
-```ad-abstract
+```ad-abstract 
 title: Weekly Newsletter
 I send out weekly newsletters with a weekly discussion question, a little space news, and the latest blog posts. Join over **1400 participants!**
 ```
@@ -32,9 +32,10 @@ I send out weekly newsletters with a weekly discussion question, a little space 
 
 -----
 
-> [!success] Astrochain - **Galaxy Sponsor** 🌌
+> [!success] [Astrochain - **Galaxy Sponsor** 🌌](https://astrochain.io)
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
-
+> 
+> [Learn More](https://astrochain.io)
 
 > [!example] Social Media Sites
 > [Instagram](https://instagram.com/realjoshuniverse)
@@ -53,7 +54,6 @@ I send out weekly newsletters with a weekly discussion question, a little space 
 > [IMDb](https://www.imdb.com/name/nm13786262/)
 > [Google](https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1)
 > [July](https://july.bio/joshhabka)
-
 
 ```ad-abstract
 title: Policies
