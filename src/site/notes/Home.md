@@ -40,6 +40,18 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 > https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1
 >  https://july.bio/joshhabka
 
+```ad-abstract
+title: Policies
+
+[[Privacy Policy]]
+[[Frequently Asked Questions]]
+[[Terms and Conditions]]
+[[Cookies Policy]]
+[[Returns and Refunds]]
+
+```
+
+
 ----
 
 <iframe style="border:none;width:100%;" height="1200px" src="https://opnform.com/forms/astronomy-quiz-of-the-day"></iframe>
