@@ -9,8 +9,6 @@
 -----
 
 ````
-query
-`tag:#sometag`
-
+Test
 ````
 
