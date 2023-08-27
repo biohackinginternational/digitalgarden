@@ -11,3 +11,9 @@ LIST "![anyName|200](" + banner + ")"
 FROM "Blog"
 ```
 
+-----
+
+``` dataview
+LIST
+FROM "Blog"
+```
