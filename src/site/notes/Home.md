@@ -55,6 +55,17 @@ I send out weekly newsletters with a weekly discussion question, a little space 
 > [Google](https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1)
 > [July](https://july.bio/joshhabka)
 
+```ad-seealso
+title: [Contact Me](https://beta.joshuahabka.com/contact-me/)
+This is the standard report form and should be used in most general cases.
+```
+
+```ad-error
+title: Message The Mods ✦ Reports
+Need to report someone's actions in my Discord server, social accounts, etc? Use this form to send a report to the right moderators! This can also be used for the my biohacking community.
+
+```
+
 ```ad-abstract
 title: Policies
 
