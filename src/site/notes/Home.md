@@ -21,15 +21,15 @@
 > **Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.**
 
 ----
-> [!abstract] [Astronomy Blog](https://beta.joshuahabka.com/blog/)
+> [!abstract] [Astronomy Blog](https://joshuahabka.com/blog/)
 > **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! You may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
 > 
 
-> [!abstract] [Astronomy Quiz of The Day](https://beta.joshuahabka.com/astronomy-quiz-of-the-day/)
+> [!abstract] [Astronomy Quiz of The Day](https://joshuahabka.com/astronomy-quiz-of-the-day/)
 > The Daily Space Quiz(Astronomy Quiz of The Day) is a quiz that will test your knowledge of planets, stars, exoplanets, galaxies, laws of the universe, and more. Questions are updated daily.
 > 
 
->[!abstract] [Weekly Newsletter](https://beta.joshuahabka.com/newsletter/)
+>[!abstract] [Weekly Newsletter](https://joshuahabka.com/newsletter/)
 I> send out weekly newsletters with a weekly discussion question, a little space news, and the latest blog posts. Join over **1400 participants!**
 
 > [!success] [Astrochain - **Galaxy Sponsor** 🌌](https://astrochain.io)
@@ -55,20 +55,20 @@ I> send out weekly newsletters with a weekly discussion question, a little space
 > [Google](https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1)
 > [July](https://july.bio/joshhabka)
 
-> [!seealso] [Contact Me](https://beta.joshuahabka.com/contact-me/)
+> [!seealso] [Contact Me](https://joshuahabka.com/contact-me/)
 > This is the standard report form and should be used in most general cases.
 
->[!error] [Message The Mods ✦ Reports](https://beta.joshuahabka.com/moderator-report-form/)
+>[!error] [Message The Mods ✦ Reports](https://joshuahabka.com/moderator-report-form/)
 >Need to report someone's actions in my Discord server, social accounts, etc? Use this form to send a report to the right moderators! This can also be used for the my biohacking community.
 
 ```ad-abstract
 title: Policies
 
-[Privacy Policy](https://beta.joshuahabka.com/privacy-policy/)
-[Frequently Asked Questions](https://beta.joshuahabka.com/frequently-asked-questions/)
-[Terms and Conditions](https://beta.joshuahabka.com/terms-and-conditions/)
-[Cookies Policy](https://beta.joshuahabka.com/cookies-policy/)
-[Returns and Refunds](https://beta.joshuahabka.com/returns-and-refunds/)
+[Privacy Policy](https://joshuahabka.com/privacy-policy/)
+[Frequently Asked Questions](https://joshuahabka.com/frequently-asked-questions/)
+[Terms and Conditions](https://joshuahabka.com/terms-and-conditions/)
+[Cookies Policy](https://joshuahabka.com/cookies-policy/)
+[Returns and Refunds](https://joshuahabka.com/returns-and-refunds/)
 
 ```
 
