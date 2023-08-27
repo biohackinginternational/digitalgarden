@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/astronomy-quiz-of-the-day/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
------
 
-[Home](app://obsidian.md/Home) ✦ [Astronomy Quiz of The Day](app://obsidian.md/Astronomy%20Quiz%20of%20The%20Day) ✦ [Contact Me](app://obsidian.md/Contact%20Me) ✦ [Blog](app://obsidian.md/Blog) ✦ [Universe Launches](https://stardashusa.com/)
+![[Header \| no-title]]
 
------
 > [!info] Astronomy Quiz of The Day
 > The Daily Space Quiz(Astronomy Quiz of The Day) is a quiz that will test your knowledge of planets, stars, exoplanets, galaxies, laws of the universe, and more. Questions are updated daily.
 > 
