@@ -59,8 +59,6 @@ I send out weekly newsletters with a weekly discussion question, a little space 
 >[!error] [Message The Mods ✦ Reports](https://beta.joshuahabka.com/moderator-report-form/)
 >Need to report someone's actions in my Discord server, social accounts, etc? Use this form to send a report to the right moderators! This can also be used for the my biohacking community.
 
-```
-
 ```ad-abstract
 title: Policies
 
