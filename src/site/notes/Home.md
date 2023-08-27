@@ -17,7 +17,7 @@
 > **Josh Habka is an astrophysics student, content creator, biohacker, and analog astronaut in training.**
 
 ----
-> [!abstract] [Astronomy Blog](https://https://beta.joshuahabka.com/blog/)
+> [!abstract] [Astronomy Blog](https://beta.joshuahabka.com/blog/)
 > **Weekly** posts about different scientific and astronomy concepts, philosophy, and more! You may access the full blog here: [Blog](https://beta.joshuahabka.com/blog/)
 > 
 
