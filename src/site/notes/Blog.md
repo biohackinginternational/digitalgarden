@@ -8,7 +8,9 @@
 
 
 
-[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [[Brands & Media\|Brands & Media]] ✦ [Universe Launches](https://stardashusa.com/)
+| [[Home\|Home]] | [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] | [[Contact Me\|Contact Me]]                                |
+|:-------- |:-------------------------------- |:--------------------------------------------- |
+| [[Blog\|Blog]] | [[Brands & Media\|Brands & Media]]           | [Universe Launches](https://stardashusa.com/) |
 
 
 </div></div>
@@ -49,10 +51,10 @@
 | [[Blog/Is There Water on the Moon\|Is There Water on the Moon]]                                                             | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/doesthemoonhavewaterheader--1-.webp)             |
 | [[Blog/Is there life on Venus\|Is there life on Venus]]                                                                     | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/Untitled-3--1---1-.webp)                         |
 | [[Blog/Should we colonize Mercury instead of Mars\|Should we colonize Mercury instead of Mars]]                             | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/colonizemercuryovermarsheader-2--1-.webp)        |
-| [[Blog/The Earth Is Not Flat.\|The Earth Is Not Flat.]]                                                                     | ![anyName\|350](https://joshuahabka.com/content/images/2023/01/theearthisnotflat.png)                           |
 | [[Blog/The Moon Landing Was Real.\|The Moon Landing Was Real.]]                                                             | ![anyName\|350](https://joshuahabka.com/content/images/2023/01/whythemoonlandingwasreal.png)                    |
 | [[Blog/The String Theory Landscape Problem\|The String Theory Landscape Problem]]                                           | ![anyName\|350](\-)                                                                                             |
 | [[Blog/What Is The Atmosphere Like on Mars\|What Is The Atmosphere Like on Mars]]                                           | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/atmosphereofmars--1-.png)                        |
+| [[Blog/The Earth Is Not Flat.\|The Earth Is Not Flat.]]                                                                     | ![anyName\|350](https://joshuahabka.com/content/images/2023/01/theearthisnotflat.png)                           |
 | [[Blog/What Is The Big Rip Theory\|What Is The Big Rip Theory]]                                                             | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/bigriptheory--1-.png)                            |
 | [[Blog/What Is the Big Bounce Theory\|What Is the Big Bounce Theory]]                                                       | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/bigbouncetheory--1-.png)                         |
 | [[Blog/What Is the Big Crunch Theory\|What Is the Big Crunch Theory]]                                                       | ![anyName\|350](https://joshuahabka.com/content/images/2023/02/thebigcrunchtheory--1-.png)                      |
