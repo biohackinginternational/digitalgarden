@@ -21,38 +21,32 @@ Josh Habka is an astrophysics student, content creator, biohacker, and analog as
 > AstroChain's interactive decentralized ecosystem is dedicated to delivering on our ''education through astronomy'' scientific research goals. Our network will include a decentralized app (dApp) providing a social AstroFeed and royalty program, AstroHUB bookable sky scanning devices, plus the virtual AstroChain Central Hub (ACC).
 
 > [!example] Social Media Sites
-> https://instagram.com/realjoshuniverse
-> https://youtube.com/@joshhabka
-> https://twitter.com/joshhabka
-> https://www.facebook.com/realjoshhabka
-> https://science.social/@admin
-> https://www.linkedin.com/in/joshhabka
-> https://tiktok.com/@realjoshuniverse
-> https://discord.gg/josh
-> https://www.patreon.com/joshhabka
-> https://t.snapchat.com/yk0fVQux
-> https://www.reddit.com/user/RealJoshUniverse
-> https://www.twitch.tv/joshhabka
-> https://linktr.ee/joshhabka
-> https://www.imdb.com/name/nm13786262/
-> https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1
->  https://july.bio/joshhabka
+> [Instagram](https://instagram.com/realjoshuniverse)
+> [Youtube](https://youtube.com/@joshhabka)
+> [Twitter/X](https://twitter.com/joshhabka)
+> [Facebook](https://www.facebook.com/realjoshhabka)
+> [Mastodon](https://science.social/@admin)
+> [LinkedIn](https://www.linkedin.com/in/joshhabka)
+> [Tiktok](https://tiktok.com/@realjoshuniverse)
+> [Discord Server](https://discord.gg/josh)
+> [Patreon](https://www.patreon.com/joshhabka)
+> [Snapchat](https://t.snapchat.com/yk0fVQux)
+> [Reddit](https://www.reddit.com/user/RealJoshUniverse)
+> [Twitch](https://www.twitch.tv/joshhabka)
+> [LinkTree](https://linktr.ee/joshhabka)
+> [IMDb](https://www.imdb.com/name/nm13786262/)
+> [Google](https://www.google.com/search?kgmid=/g/11tfksxxlq#ip=1)
+> [July](https://july.bio/joshhabka)
 
 ```ad-abstract
 title: Policies
 
-[[Privacy Policy]]
-[[Frequently Asked Questions]]
-[[Terms and Conditions]]
-[[Cookies Policy]]
-[[Returns and Refunds]]
+[Privacy Policy](https://beta.joshuahabka.com/privacy-policy/)
+[Frequently Asked Questions](https://beta.joshuahabka.com/frequently-asked-questions/)
+[Terms and Conditions](https://beta.joshuahabka.com/terms-and-conditions/)
+[Cookies Policy](https://beta.joshuahabka.com/cookies-policy/)
+[Returns and Refunds](https://beta.joshuahabka.com/returns-and-refunds/)
 
 ```
 
-
 ----
-
-<iframe style="border:none;width:100%;" height="1200px" src="https://opnform.com/forms/astronomy-quiz-of-the-day"></iframe>
-
------
-
