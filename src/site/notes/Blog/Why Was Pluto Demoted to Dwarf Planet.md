@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/blog/why-was-pluto-demoted-to-dwarf-planet/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"banner":"https://joshuahabka.com/content/images/2023/02/theplutodemotionj--1-.png","banner_x":0.5,"permalink":"/blog/why-was-pluto-demoted-to-dwarf-planet/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
-Ao read---
-banner: "https://blog.joshuniverse.com/content/images/2023/02/theplutodemotionj--1-.png"
-banner_x: 0.5
----
 ```ad-info
 title: Blog Information
 ```
