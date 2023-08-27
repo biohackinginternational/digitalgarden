@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/lifeonsaturn-2--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-saturn/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/lifeonsaturn-2--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-there-life-on-saturn/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
