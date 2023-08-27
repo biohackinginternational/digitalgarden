@@ -3,7 +3,16 @@
 ---
 
 
-![[Header \| no-title]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
+
+
+</div></div>
+
 
 We are committed to providing a great experience for all visitors to our website. These terms and conditions have been created to ensure that we are clear in our general business practices, community membership policies, and financial policies.
 
