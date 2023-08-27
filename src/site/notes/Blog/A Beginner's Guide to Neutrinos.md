@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/blog/a-beginner-s-guide-to-neutrinos/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
------
 
-[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]]
+![[Header \| no-title]]
 
------
 #Cosmology🌌 
 
 > The cosmos' mysteries through neutrinos, ethereal particles that bridge the gap between galaxies and subatomic realms.
