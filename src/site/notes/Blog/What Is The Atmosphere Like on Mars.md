@@ -1,5 +1,5 @@
 ---
-{"banner":"https://blog.joshuniverse.com/content/images/2023/02/atmosphereofmars--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/what-is-the-atmosphere-like-on-mars/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"banner":"https://joshuahabka.com/content/images/2023/02/atmosphereofmars--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/what-is-the-atmosphere-like-on-mars/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 ```ad-info
