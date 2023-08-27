@@ -10,3 +10,6 @@
 LIST  
 FROM "Blog"
 ```
+
+```"![anyName|350](" + banner + ")" AS "Cover"
+```
