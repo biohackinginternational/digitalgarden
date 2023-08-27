@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/press-and-media/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
 # Featured Publications
 -----
 ```embed
