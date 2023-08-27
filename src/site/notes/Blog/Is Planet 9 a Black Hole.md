@@ -2,6 +2,9 @@
 {"banner":"https://joshuahabka.com/content/images/2023/02/planetnineblackholethumbnail--1-.png","banner_x":0.5,"dg-publish":true,"permalink":"/blog/is-planet-9-a-black-hole/","dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
+
+![[Header \| no-title]]
+
 ```ad-info
 title: Blog Information
 ```
