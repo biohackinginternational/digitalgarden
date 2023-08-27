@@ -3,7 +3,7 @@
 ---
 
 
-[Home](app://obsidian.md/Home) ✦ [Astronomy Quiz of The Day](app://obsidian.md/Astronomy%20Quiz%20of%20The%20Day) ✦ [Contact Me](app://obsidian.md/Contact%20Me) ✦ [Blog](app://obsidian.md/Blog) ✦ [Universe Launches](https://stardashusa.com/)
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
 
 -----
 
