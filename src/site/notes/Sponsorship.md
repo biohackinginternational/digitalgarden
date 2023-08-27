@@ -3,7 +3,16 @@
 ---
 
 
-![[Header \| no-title]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[Home\|Home]] ✦ [[Astronomy Quiz of The Day 🪐\|Astronomy Quiz of The Day 🪐]] ✦ [[Contact Me\|Contact Me]] ✦ [[Blog\|Blog]] ✦ [Universe Launches](https://stardashusa.com/)
+
+
+</div></div>
+
 # Josh Universe Sponsorship Opportunities
 
 At Josh Universe, we pride ourselves on providing quality content and resources related to space, astronomy, and physics. Our platforms include a daily space quiz, a comprehensive space events calendar, a popular podcast, a lively Discord community, and a dedicated Science.Social page. We invite brands and organizations that align with our values to become sponsors and support our mission.
